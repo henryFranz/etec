@@ -1,0 +1,63 @@
+<div class="row content-seu-nivel adulto">
+										
+				<div class="col mobile-1-1 tablet-1-3 desk-1-6">
+					<div class="card-imc card-calculado-1">
+						<img src="https://abeso.org.br/wp-content/uploads/2019/12/imc_01.png.webp" class="homem">
+						<img src="https://abeso.org.br/wp-content/uploads/2019/12/imc_m_01.png.webp" class="mulher">
+						<span>Acima de 40,0</span>
+						<h4>Obesidade<br> grau III</h4>
+						<p>Aqui o sinal é vermelho, com forte probabilidade de já existirem doenças muito graves associadas. O tratamento deve ser ainda mais urgente.</p>
+					</div>
+				</div>
+												
+				<div class="col mobile-1-1 tablet-1-3 desk-1-6">
+					<div class="card-imc card-calculado-2">
+						<img src="https://abeso.org.br/wp-content/uploads/2019/12/imc_02.png.webp" class="homem">
+						<img src="https://abeso.org.br/wp-content/uploads/2019/12/imc_m_02.png.webp" class="mulher">
+						<span>Entre 35,0 e 39,9</span>
+						<h4>Obesidade<br> grau II</h4>
+						<p>Mesmo que seus exames aparentem estar normais, é hora de se cuidar, iniciando mudanças no estilo de vida com o acompanhamento próximo de profissionais de saúde.
+</p>
+					</div>
+				</div>
+												
+				<div class="col mobile-1-1 tablet-1-3 desk-1-6">
+					<div class="card-imc card-calculado-3">
+						<img src="https://abeso.org.br/wp-content/uploads/2019/12/imc_03.png.webp" class="homem">
+						<img src="https://abeso.org.br/wp-content/uploads/2019/12/imc_m_03.png.webp" class="mulher">
+						<span>Entre 30,0 e 34,9</span>
+						<h4>Obesidade grau I</h4>
+						<p>Sinal de alerta! Chegou na hora de se cuidar, mesmo que seus exames sejam normais. Vamos dar início a mudanças hoje! Cuide de sua alimentação. Você precisa iniciar um acompanhamento com nutricionista e/ou endocrinologista.</p>
+					</div>
+				</div>
+												
+				<div class="col mobile-1-1 tablet-1-3 desk-1-6">
+					<div class="card-imc card-calculado-4">
+						<img src="https://abeso.org.br/wp-content/uploads/2019/12/imc_04.png.webp" class="homem">
+						<img src="https://abeso.org.br/wp-content/uploads/2019/12/imc_m_04.png.webp" class="mulher">
+						<span>Entre 25,0 e 29,9</span>
+						<h4>Sobrepeso</h4>
+						<p>Ele é, na verdade, uma pré-obesidade e muitas pessoas nessa faixa já apresentam doenças associadas, como diabetes e hipertensão. Importante rever hábitos e buscar ajuda antes de, por uma série de fatores, entrar na faixa da obesidade pra valer.</p>
+					</div>
+				</div>
+												
+				<div class="col mobile-1-1 tablet-1-3 desk-1-6">
+					<div class="card-imc card-calculado-5">
+						<img src="https://abeso.org.br/wp-content/uploads/2019/12/imc_05.png.webp" class="homem">
+						<img src="https://abeso.org.br/wp-content/uploads/2019/12/imc_m_05.png.webp" class="mulher">
+						<span>Entre 18,6 e 24,9</span>
+						<h4>Normal</h4>
+						<p>Que bom que você está com o peso normal! E o melhor jeito de continuar assim é mantendo um estilo de vida ativo e uma alimentação equilibrada.</p>
+					</div>
+				</div>
+												
+				<div class="col mobile-1-1 tablet-1-3 desk-1-6">
+					<div class="card-imc card-calculado-6">
+						<img src="https://abeso.org.br/wp-content/uploads/2019/12/imc_06.png.webp" class="homem">
+						<img src="https://abeso.org.br/wp-content/uploads/2019/12/imc_m_06.png.webp" class="mulher">
+						<span>18,5 ou menos</span>
+						<h4>Abaixo do normal</h4>
+						<p>Procure um médico. Algumas pessoas têm um baixo peso por características do seu organismo e tudo bem. Outras podem estar enfrentando problemas, como a desnutrição. É preciso saber qual é o caso.</p>
+					</div>
+				</div>
+											</div>
