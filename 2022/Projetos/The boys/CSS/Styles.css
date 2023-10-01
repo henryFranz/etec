@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+HK:wght@200&family=Silkscreen:wght@400;700&display=swap');
+
+body{
+    background: url('Assets/paisagem.jpg');
+    background-size: cover;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.titulo{
+    font-family: 'Noto Serif HK', serif;
+    font-family: 'Silkscreen', cursive;
+    color: #eeea0e;
+    font-size: 55px;
+}
+.box{
+    font-size: 35px;
+}
+.p1 {
+    font-family: 'Qwitcher Grypen', cursive;
+}
+.p2{
+
+    font-family: 'Qwitcher Grypen', cursive;
+}

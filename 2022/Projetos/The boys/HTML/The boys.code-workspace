@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\Fontes"
+		},
+		{
+			"path": "..\\..\\..\\CRUD"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "The boys"
+	}
+}

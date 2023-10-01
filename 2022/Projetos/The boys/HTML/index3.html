@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<head>
+  <html lang="pt-br">
+  <meta charset="UTF-8">
+  <title>Site Responsive</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css" />
+  <link rel="stylesheet" href="/Css/styles3.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>                               
+<body>
+  <!----alt+shift+s fica tudo organizado-->
+ <p id ="titulo">KImetsu no yaiba</p>
+  <!-- Swiper -->                   
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide"><img src="/Imagens/gyomei.jpg" width="300" height="300">
+      <h1 class="hashira1">Gyomei Himejima</h1>
+      <P class="respiração1">Hashira da Pedra</P>
+    </div>
+      <div class="swiper-slide"><img src="/Imagens/sanemi.jpg" width="300" height="300">
+      <h1 class="hashira2">Sanemi Shinazugawa</h1>
+      <p class="respiração2">Hashira do Vento</p>
+    </div>
+      <div class="swiper-slide"><img src="/Imagens/tokito.jpg" width="300" height="300">
+      <h1 class="hashira3">Muichiro Tokito</h1>
+      <p class="respiração3">Hashira da Nevoa</p>
+    </div>
+      <div class="swiper-slide"><img src="/Imagens/tomioka.jpg" width="300" height="300">
+      <h1 class="hashira4">Giyu Tomioka</h1>
+      <p class="respiração4">Hashira da Água</p>
+    </div>
+      <div class="swiper-slide"><img src="/Imagens/obanai.jpg" width="300" height="300">
+      <h1 class="hashira5">Obanai Iguro</h1>
+      <p class="respiração5">Hashira da Serpente</p>
+    </div>
+      <div class="swiper-slide"><img src="/Imagens/mitsuri.jfif" width="300" height="300">
+      <h1 class="hashira6">Mitsuri Kanroji</h1>
+      <p class="respiração6">Hashira do Amor</p>
+      </div>  
+      <div class="swiper-slide"><img src="/Imagens/rengoku.jfif" width="300" height="300">
+      <h1 class="hashira7">Kyojuro Rengoku</h1>
+      <p class="respiração7">Hashira das Chamas</p>
+    </div>
+      <div class="swiper-slide"><img src="/Imagens/uzui.jpg" width="300" height="300">
+      <h1 class="hashira8">Tengen Uzui</h1>
+      <p class="respiração8">Hashira do Som</p>
+    </div>
+      <div class="swiper-slide"><img src="/Imagens/shinobu.jpg" width="300" height="300">
+      <h1 class="hashira9">Shinobu Kocho</h1>
+      <p id="respiração9">Hashira do Inseto</p>
+    </div>
+    </div>
+    <div class="swiper-pagination"></div>
+  </div>
+  <script src="https://unpkg.com/swiper/js/spiwer.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+
+  <!-- Initialize Swiper -->
+  <script>
+    var swiper = new Swiper('.swiper-container', {
+      effect: "coverflow",
+      grabCursor: true,
+      centeredSlides: true,
+      slidesPerView: "auto",
+      coverflowEffect: {
+        rotate: 20,
+        stretch: 0,
+        depth: 250,
+        modifier: 1,
+        slideShadows: true,
+      },
+      loop: true,
+       autoplay: {
+          delay: 1000,
+          disableOnInteraction: false,
+        },
+    });
+
+  </script>
+</body>
+
+</html>
